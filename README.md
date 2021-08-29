@@ -2,7 +2,7 @@
 
 ### 克隆模板
 
-https://github.com/ygp9712/create-react-template.git
+git clone https://github.com/ygp9712/create-react-template.git
 
 ### 安装依赖
 
